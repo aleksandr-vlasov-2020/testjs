@@ -7,4 +7,4 @@ console.log(arr[0]);
 
 alert('hello world');
 
-confirm('есть 18?')
+confirm('есть 18?');
